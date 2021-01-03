@@ -8,6 +8,7 @@
 - [x] Stylus
 - [x] Pug
 - [x] Router
+- [x] Element-plus
 
 ## Usage
 

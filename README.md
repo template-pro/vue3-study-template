@@ -1,8 +1,8 @@
-# vue3-study-template
+# ⚠️ vue3-study-template
 
 > 一个快速生成 `Vue3` 目录的模版
 
-## Feature
+## ~Feature~
 
 - [x] Jsx
 - [x] Stylus
@@ -12,4 +12,12 @@
 
 ## Usage
 
-[Use this Template](https://github.com/Wxh16144/vue3-study-template/generate)
+[~Use this Template~](https://github.com/Wxh16144/vue3-study-template/generate)
+
+## Recommended
+
+> [Scaffolding Your First Vite Project](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+
+```bash
+pnpm create vite
+```
